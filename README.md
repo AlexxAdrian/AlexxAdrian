@@ -100,12 +100,15 @@ Deploy and basic DevOps with services like Vercel, Render and Railway.
 </span>
 
 
-<h4> Social Medias:</h4>
-  <a href="https://www.tiktok.com/@alexx.dev?is_from_webapp=1&sender_device=pc">
-   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
+<h4>Social Medias:</h4>
+<a href="https://www.tiktok.com/@alexx.dev?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
 </a>
 
 
+
 <h3 align="center">Support:</h3>
-<p><a href="buymeacoffee.com/alexx.dev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alexx.dev" /></a></p>
+<p><a href="https://www.buymeacoffee.com/alexx.dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 </br></br>
+
+
