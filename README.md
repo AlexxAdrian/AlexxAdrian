@@ -3,7 +3,7 @@
 <a href="https://www.youtube.com/watch?v=SDkAGkd4NLc" target="_blank">
   <img 
     align="right" 
-    width="300px" 
+    width="500px" 
     alt="Matrix" 
     src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </a>
@@ -55,11 +55,8 @@ Deploy and basic DevOps with services like Vercel, Render and Railway.
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
 </span>
 
 <h4> Databases </h4>
@@ -70,23 +67,11 @@ Deploy and basic DevOps with services like Vercel, Render and Railway.
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </span>
 
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</span>
-
 <h4> Operating System </h4>
 <span>
 <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
-</span>
-
-<h4> Design </h4>
-<span>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
@@ -99,16 +84,32 @@ Deploy and basic DevOps with services like Vercel, Render and Railway.
   
 </span>
 
-
 <h4>Social Medias:</h4>
 <a href="https://www.tiktok.com/@alexx.dev?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
 </a>
 
-
-
-<h3 align="center">Support:</h3>
+<h4>Support:</h4>
 <p><a href="https://www.buymeacoffee.com/alexx.dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 </br></br>
+
+<p align="center">
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alexxadrian&show_icons=true&include_all_commits=true&bg_color=30,434343,000000&title_color=fe428e&text_color=f1f1eb"  />
+  <img align="center" alt="Akshat's github stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alexxadrian&layout=compact&langs_count=10&hide=html,css&bg_color=30,000000,434343&title_color=fe428e&text_color=f1f1eb" />
+</p>
+
+<br/>
+
+<p align="center"> 
+  <samp>
+    Profile Views Count
+  </samp>
+</p>
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/alexxadrian/count.svg" alt="dev-akshat profile views" /> 
+</p>
+
+<hr/>
 
 
