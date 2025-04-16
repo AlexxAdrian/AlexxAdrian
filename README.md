@@ -8,30 +8,15 @@
     src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </a>
 
-I love transforming ideas into impactful digital experiences. I enjoy creating elegant websites, immersive animations and useful tools that inspire others to improve their technical skills.
+🚀 I transform ideas into impactful digital experiences through elegant websites, immersive animations and practical tools.
 
-💻 I work with technologies like HTML, CSS, JavaScript, Python, Node.js, TypeScript, MongoDB, MySQL, Git and GitHub.
-🔧 I have experience in backend development, REST API integration, task automation, and creating tools that solve real problems.
-📦 I am also passionate about scalable project architecture and using best practices in software development.
+💻 I handle technologies such as HTML, CSS, JavaScript, Python, Node.js, TypeScript, MongoDB, MySQL, Git and GitHub. I have experience in full-stack development, REST APIs integration, automation and creating solutions for real problems.
 
-🎨 I focus on web design, front-end development and the creation of educational and creative content.
-⚙️ I'm interested in everything related to DevTools, developer productivity, SaaS, browser extensions and web tools.
+🎨 Passionate about full-stack development, creative programming and creating educational content for developers.
 
-🌱 I'm currently exploring:
+🌱 Currently exploring React, Angular, Express, automation with Python, databases and deployment with Vercel, Netlify, GitHub Pages, Firebase and Heroku.
 
-React.js and its ecosystem.
-
-APIs with Node.js + Express
-
-Automation with Python
-
-Databases like MongoDB and MySQL
-
-Deploy and basic DevOps with services like Vercel, Render and Railway.
-
-👯 I'm looking to collaborate on open source projects, creative ideas and tools that bring value to the community.
-
-☕ I also share tutorials, resources and projects on my networks to help other developers grow.
+🤝 Open to collaborate on open source projects, creative tools and anything that brings value to the dev community.
 
 
 ## My Skills Include
